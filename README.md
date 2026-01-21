@@ -10,7 +10,6 @@ print(df)
 
 """about the dataset:
 we are predicting solubility - logS
-higher logP values means lower solubility
 
 1. the first column MolLogP is a measure of
 hydrophobicity and higher values means more hydrophobic so 
